@@ -1,11 +1,11 @@
-# nginx default page
+# default server document templates
 
-Beautiful error page templates for my server.
-
+Beautiful default server document pages
 
 ### D E M O
 
-* XXX: https://turbopixel.github.io/nginx-default-page/index.html (default like "domain unknown")
-* 403: https://turbopixel.github.io/nginx-default-page/403.html
-* 404: https://turbopixel.github.io/nginx-default-page/404.html
-* 500: https://turbopixel.github.io/nginx-default-page/500.html
+* XXX: https://turbopixel.codeberg.page/default-server-documents/index.html
+* 403: https://turbopixel.codeberg.page/default-server-documents/403.html
+* 404: https://turbopixel.codeberg.page/default-server-documents/404.html
+* 500: https://turbopixel.codeberg.page/default-server-documents/500.html
+* placeholder page: https://turbopixel.codeberg.page/default-server-documents/domain-unknown.html
