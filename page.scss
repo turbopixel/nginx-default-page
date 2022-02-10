@@ -1,3 +1,10 @@
+// ========================================
+// -- vars
+$color-background: #3a6e8f !default;
+$color-background-ter: #eff2ec !default;
+
+// ========================================
+// -- mixins
 @mixin screen-md {
 	@media screen and (min-width:501px) and (max-width:1300px) {
 		@content;
@@ -12,9 +19,8 @@
 
 }
 
-$color-background: #00395d;
-$color-background-ter: #eff2ec;
-
+// ========================================
+// template
 * {
 	margin: 0;
 	padding: 0
